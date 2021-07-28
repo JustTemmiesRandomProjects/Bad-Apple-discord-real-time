@@ -1,4 +1,6 @@
 # Bad-Apple-discord-real-time
+this is the source code for the performance you can see in this video https://www.youtube.com/watch?v=fX_qBdS1gnc
+
 if you for some ungodly reason want to use this replace the 'token' at the bottom of every file with your own bot tokens (yes, you really do need 30 bots, which can he tedious as discord will rate limit you quite quickly)
 https://discord.com/developers/applications
 
