@@ -7,6 +7,8 @@ THS IS API ABUSE! i used 30 bots to circumvent discord's rate limit, i ran this 
 
 
 
+this is a modified version of the code found here https://github.com/NPCat/bad-apple-bot
+
 if you for some ungodly reason want to use this replace the 'token' at the bottom of every file with your own bot tokens (yes, you really do need 30 bots, which can he tedious as discord will rate limit you quite quickly)
 https://discord.com/developers/applications
 
